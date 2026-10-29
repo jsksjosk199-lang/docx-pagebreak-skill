@@ -1,0 +1,4 @@
+interface:
+  display_name: "月报排版与分页"
+  short_description: "按规范整理 Word 月报，修复 WPS 分页重影与空白页"
+  default_prompt: "使用 $docx-pagebreak 按要求整理这份月报并检查分页。"
